@@ -1,0 +1,1 @@
+print(f'module name is: {__name__}')
